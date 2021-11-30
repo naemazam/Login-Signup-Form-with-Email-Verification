@@ -1,5 +1,5 @@
-# Login-Signup-Form-with-Email-Verification
-
+# Login Signup Form with Email Verification
+Login Signup Form with Email Verification is a Working PHP based Sine Up from with Working OTP genataring System, It's Working On Local Host.
 
 ## How to configure XAMPP to send Mail from Localhost in PHP ?
 
